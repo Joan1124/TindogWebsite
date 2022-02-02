@@ -188,9 +188,13 @@ h3 {
     font-size: 3rem;
   }
   .testimonial-text{
-    font-size: 1rem;
+    font-size: 2rem;
   }
   .container-fluid {
     padding: 3% 3%;
+  }
+    .pricing{
+    padding-left: .3rem;
+    padding-right: .3rem;
   }
   }
