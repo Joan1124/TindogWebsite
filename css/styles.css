@@ -162,7 +162,7 @@ h3 {
   }
 
   .rotate {
-    position: static;
+    position: relative;
     transform: rotate(0);
   }
 }
